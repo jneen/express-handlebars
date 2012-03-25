@@ -8,8 +8,4 @@
 
   "files": ["index.js", "lib", "package.json", "LICENSE"],
   "main": "index.js",
-
-  "dependencies": {
-    "handlebars": "*"
-  }
 }
