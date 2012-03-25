@@ -1,0 +1,15 @@
+{
+  "name": "express-handlebars",
+  "version": "0.0.1",
+  "description": "handlebars.js integration with express",
+  "keywords": ["handlebars", "express", "helpers", "dynamicHelpers", "templates"],
+  "author": "Jay Adkisson <jjmadkisson at gmail dot com>",
+  "repository": "git://github.com/jayferd/express-handlebars",
+
+  "files": ["index.js", "lib", "package.json", "LICENSE"],
+  "main": "index.js",
+
+  "dependencies": {
+    "handlebars": "*"
+  }
+}
