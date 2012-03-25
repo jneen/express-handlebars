@@ -7,5 +7,5 @@
   "repository": "git://github.com/jayferd/express-handlebars",
 
   "files": ["index.js", "lib", "package.json", "LICENSE"],
-  "main": "index.js",
+  "main": "index.js"
 }
