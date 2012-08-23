@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/jayferd/express-handlebars.png)](http://travis-ci.org/jayferd/express-handlebars)
 # express-handlebars
 
 ## Usage
